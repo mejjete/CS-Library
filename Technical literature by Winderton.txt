@@ -2,7 +2,7 @@ author: Bjarne Straustrup
 title: "Principles and Practice Using C++"
 
 author: ""
-title: "Java the complite Refrence Ninth Edition" 	//Java
+title: "Java the complete Reference Ninth Edition" 	//Java
 
 author: "Robert Sedgevick"
 title: "Algoritms Fourth Edition"
